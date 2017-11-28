@@ -1,0 +1,6 @@
+{
+	"module"  : "crt",
+	"version" : "1.0.0",
+	"depends" : ["std","mojo"],
+	"author"  : "Thomas Schröder"
+}
